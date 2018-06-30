@@ -167,3 +167,10 @@ font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubun
         text-align: center;
     }
 }
+
+/* megafest not bold */
+
+#page-top > header.megacoolfest.text-white.text-center > div > div > div > h2,
+#page-top > header.megacoolfest.text-white.text-center > div > div > div > h4{
+    font-weight: 400;
+}
